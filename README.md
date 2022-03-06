@@ -1,2 +1,2 @@
 # Titanic_UG
-Titanic ML
+Machine Learning of Titanic Dataset
